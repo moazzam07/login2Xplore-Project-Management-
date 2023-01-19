@@ -84,6 +84,8 @@ function resetForm(){
     $('#save').prop("disabled", true)
     $('#update').prop("disabled", true)
     $('#reset').prop("disabled", true)
+
+    $('#projId').focus()
 }
 
 function saveData(){

@@ -38,13 +38,13 @@
 
 ## *Illustrations*
 *-> Project Management Form*
-![image](https://github.com/moazzam07/login2Xplore-Project-Management-.git/screenShots/form.PNG)
+![image](https://github.com/moazzam07/login2Xplore-Project-Management-/blob/main/screenShots/form.PNG)
 
 *-> Values-Entered*
-![image](https://github.com/moazzam07/login2Xplore-Project-Management-.git/screenShots/Data-entered.PNG)
+![image](https://github.com/moazzam07/login2Xplore-Project-Management-/blob/main/screenShots/Data-entered.PNG)
 
 *-> Values-update*
-![image](https://github.com/moazzam07/login2Xplore-Project-Management-.git/screenShots/update.PNG)
+![image](https://github.com/moazzam07/login2Xplore-Project-Management-/blob/main/screenShots/update.PNG)
 
 *-> DataBase*
-![image](https://github.com/moazzam07/login2Xplore-Project-Management-.git/screenShots/db.PNG)
+![image](https://github.com/moazzam07/login2Xplore-Project-Management-/blob/main/screenShots/db.PNG)
